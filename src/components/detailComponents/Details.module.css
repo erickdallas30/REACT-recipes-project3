@@ -9,11 +9,6 @@
   color: white;
   background-size: cover;
   margin-bottom: 30px;
-  /* background: linear-gradient(
-    rgba(0, 0, 0, 0.8), 
-    rgba(0, 0, 0, 0.8)
-  ) center center fixed no-repeat,
-  url(--background); */
 }
 
 .details_container {
@@ -35,7 +30,7 @@
 
 .instruction_container {
   max-width: 550px;
-  box-shadow: 0px 3px 10px rgba(0,0,0,0.6);
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.6);
   box-sizing: border-box;
   padding: 12px;
   border-radius: 3px;
@@ -43,7 +38,7 @@
 
 .ingredients_container {
   width: 300px;
-  box-shadow: 0px 3px 10px rgba(0,0,0,0.6);
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.6);
   box-sizing: border-box;
   padding: 12px;
   border-radius: 3px;
